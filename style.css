@@ -1,17 +1,30 @@
 html, body {
   height: 100%;
   width: 100%;
-  background-image: url("https://images.wallpapersden.com/image/download/new-cool-swirl-4k-art_bGVtZWqUmZqaraWkpJRobWllrWdma2U.jpg");
+
 }
 
 h1{
-  color: black
+  color: darkslateblue; 
+font-weight: bold 
+}
 
-font-weight: bold
-  
-  
-
+p{
+  color: darkslateblue;
   
 }
 
+label{
+ color: steelblue;
+  
+}
 
+button{
+  color: darkslateblue;
+  
+}
+
+input{
+  margin-left: 400px
+  
+}
