@@ -1,7 +1,14 @@
+
 html, body {
   height: 100%;
   width: 100%;
+  background-color: snow;
+  background-image: url("Border2.png");
+  background-size: 100% 100%
+}
 
+div2{
+  height: 100 px
 }
 
 h1{
@@ -27,4 +34,9 @@ button{
 input{
   margin-left: 400px
   
+}
+
+img{
+  height: 100%;
+  width: 100%;
 }
